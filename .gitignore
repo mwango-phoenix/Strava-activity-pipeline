@@ -1,0 +1,6 @@
+.env.local
+__pycache__/
+
+strava_activities.csv
+
+node_modules/
